@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/website-of-cars/static/css/main.f2231c3e.chunk.css",
-    "main.js": "/website-of-cars/static/js/main.96da0f4e.chunk.js",
-    "main.js.map": "/website-of-cars/static/js/main.96da0f4e.chunk.js.map",
+    "main.js": "/website-of-cars/static/js/main.35612d32.chunk.js",
+    "main.js.map": "/website-of-cars/static/js/main.35612d32.chunk.js.map",
     "runtime-main.js": "/website-of-cars/static/js/runtime-main.9b7cea36.js",
     "runtime-main.js.map": "/website-of-cars/static/js/runtime-main.9b7cea36.js.map",
     "static/css/2.800be05e.chunk.css": "/website-of-cars/static/css/2.800be05e.chunk.css",
@@ -12,13 +12,25 @@
     "static/css/2.800be05e.chunk.css.map": "/website-of-cars/static/css/2.800be05e.chunk.css.map",
     "static/css/main.f2231c3e.chunk.css.map": "/website-of-cars/static/css/main.f2231c3e.chunk.css.map",
     "static/js/2.4cdb98a0.chunk.js.LICENSE.txt": "/website-of-cars/static/js/2.4cdb98a0.chunk.js.LICENSE.txt",
-    "static/media/Header.css": "/website-of-cars/static/media/3.aa362875.jpg"
+    "static/media/Header.css": "/website-of-cars/static/media/3.aa362875.jpg",
+    "static/media/7serisi.4d608bce.png": "/website-of-cars/static/media/7serisi.4d608bce.png",
+    "static/media/audi-a3-sportback.5fad76a4.webp": "/website-of-cars/static/media/audi-a3-sportback.5fad76a4.webp",
+    "static/media/audi-a5-sportback.a18f3f42.png": "/website-of-cars/static/media/audi-a5-sportback.a18f3f42.png",
+    "static/media/audi-q2.794b0ec5.webp": "/website-of-cars/static/media/audi-q2.794b0ec5.webp",
+    "static/media/i3.fb8c5dc0.png": "/website-of-cars/static/media/i3.fb8c5dc0.png",
+    "static/media/m3.403ce563.webp": "/website-of-cars/static/media/m3.403ce563.webp",
+    "static/media/opel-astra-hb.66b4b0d8.webp": "/website-of-cars/static/media/opel-astra-hb.66b4b0d8.webp",
+    "static/media/opel-corsa-5-kapi.91674aa3.webp": "/website-of-cars/static/media/opel-corsa-5-kapi.91674aa3.webp",
+    "static/media/opel-grandland-x.4a00c13a.webp": "/website-of-cars/static/media/opel-grandland-x.4a00c13a.webp",
+    "static/media/opel-insignia-grand-sport.a7d3c365.webp": "/website-of-cars/static/media/opel-insignia-grand-sport.a7d3c365.webp",
+    "static/media/x2.76421a54.png": "/website-of-cars/static/media/x2.76421a54.png",
+    "static/media/x3.4740237e.webp": "/website-of-cars/static/media/x3.4740237e.webp"
   },
   "entrypoints": [
     "static/js/runtime-main.9b7cea36.js",
     "static/css/2.800be05e.chunk.css",
     "static/js/2.4cdb98a0.chunk.js",
     "static/css/main.f2231c3e.chunk.css",
-    "static/js/main.96da0f4e.chunk.js"
+    "static/js/main.35612d32.chunk.js"
   ]
 }
