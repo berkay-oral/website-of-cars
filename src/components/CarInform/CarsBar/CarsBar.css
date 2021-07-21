@@ -1,0 +1,34 @@
+.carsArea{
+    background-color:rgb(75, 128, 214);
+    padding: 0;
+
+}
+.carsArea ul{
+    list-style-type: none;
+    padding-left: 0;
+    margin: 2rem auto;
+ 
+}
+.href{
+    text-decoration: none;
+    border: none;  
+    /* position: relative; */
+}
+
+.carsArea  li {
+    text-decoration: none;
+    font-size: 1.4rem;
+    color:  rgb(255, 255, 255);  
+}
+.carsArea  li:hover{
+       background-color: #95b4e0;
+      
+}
+.carsArea{
+    min-height: 612px;
+}
+@media  screen and (max-width: 766px) {
+.carsArea{
+    min-height: auto;
+}
+}

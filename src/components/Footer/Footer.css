@@ -1,0 +1,26 @@
+footer{
+    color: white;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+footer ul {
+    list-style-type: none;
+    
+}
+
+footer ul{
+    padding: 0;
+}
+
+footer ul li{
+    width: 100%;
+    
+}
+footer a{
+    color:white;
+    outline: none;
+    text-decoration: none;
+
+}

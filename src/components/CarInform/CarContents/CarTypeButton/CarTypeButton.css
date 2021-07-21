@@ -1,0 +1,36 @@
+
+
+button{
+    box-shadow: none!important;
+}
+
+
+@media  screen and (max-width: 480px) {
+   
+    .buttons-container{
+        width: 100%;
+        margin: 0 auto;
+    }
+   button{
+       width: 100%;
+   }
+ 
+ }
+
+
+
+
+@media  screen and (max-width: 768px) {
+  
+     .buttons-container{
+        text-align: center!important;
+     }
+ button{
+     font-size: 20px!important;
+   
+ }
+
+}
+
+
+

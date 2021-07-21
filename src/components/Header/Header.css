@@ -1,0 +1,156 @@
+
+
+
+.overlay{
+    background-color: rgba(0, 0, 0, .7);
+    position: absolute;
+    z-index: 5;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    width: 100%;
+  }
+  
+  
+  .textArea{
+     position: relative!important;
+     top: 50%;
+     transform: translateY(-50%);
+  }
+  
+  h2{
+      font-weight: 900;
+      font-size: 5.5vw!important;/*% ayarlı RESPONSİVE font size*/
+      z-index: 9;
+      padding: 0  1rem; 
+      position: relative;
+      color: white;
+  }
+  
+  .topText{ 
+    animation-name: toptextani;
+    animation-duration: 3s;
+    animation-iteration-count: infinite ;
+    animation-timing-function: ease;
+  }
+  
+  @keyframes toptextani{
+     from {top: -200px; opacity: 0;}
+     to   {top: 0px; opacity: 1;}
+  }
+  
+  .bottomText{
+    animation-name: bottomText;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease;
+  
+  }
+  
+  @keyframes  bottomText{
+    from {top: 200px; opacity: 0;}
+    to   {top: 0px; opacity: 1;}
+  }
+  
+  
+  
+  .slider{
+      position: relative;
+      overflow: hidden;
+  }
+  
+   .slides {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 300%;
+      height: 100%;
+      transition: 2s ease;
+    }
+    
+   .slide {
+      width: 33.33%;
+      height: 100%;
+      float: left;
+      position: relative;
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: center center;
+    }
+  
+    .slide-1 {
+      background-image:  url(../Header/headerCarsImages/1.jpg) ;
+    }
+  
+    .slide-2 {
+      background-image:  url(../Header/headerCarsImages/2.jpg);
+    }
+    
+    .slide-3 {
+      background-image:  url(../Header/headerCarsImages/3.jpg);
+    }
+    
+  
+  
+  
+  
+    /*MEDİA QUERY*/
+  
+  
+      /* 240 px ve sonrası için*/
+      
+    @media (min-width: 240px){
+  
+        /* h2{
+            font-size: 1rem;
+            color: rgba(255, 255, 255, 0.698);
+          } */
+   
+    }
+  
+    /* 320 px ve sonrası için*/
+    @media (min-width: 320px){
+     /* h2{
+            font-size: 1.5rem;
+          
+          } */
+    }
+  
+  
+    @media (min-width: 480px){
+      /* h2{
+        font-size: 2rem;
+     
+      } */
+  
+    }
+  
+  
+    @media (min-width: 768px){
+      
+    }
+  
+    @media (min-width: 768px){
+      /* h2{
+        font-size: 3rem;
+        color: salmon;
+  
+      } */
+      
+    }
+  
+  
+    @media (min-width: 1024px){
+      /* h2{
+        font-size: 3.8rem;
+       
+      } */
+    }
+  
+  
+   
+   
+    
+  
+  
+   
